@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajutor Documente - Servicii de Redactare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #0077b6;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .service {
+            margin: 20px 0;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .contact {
+            text-align: center;
+            padding: 20px;
+            background: #0077b6;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ajutor Documente</h1>
+        <p>Redactare și consultanță pentru documente în Olanda</p>
+    </header>
+    <div class="container">
+        <h2>Serviciile Noastre</h2>
+        <div class="service">
+            <h3>Cereri pentru beneficii sociale</h3>
+            <p>Ajutor pentru alocații, subvenții și alte beneficii.</p>
+        </div>
+        <div class="service">
+            <h3>Contestații pentru amenzi</h3>
+            <p>Scrisori oficiale pentru a contesta decizii administrative.</p>
+        </div>
+        <div class="service">
+            <h3>CV-uri și scrisori de intenție</h3>
+            <p>Redactare profesională pentru locuri de muncă în Olanda.</p>
+        </div>
+        <div class="service">
+            <h3>Cereri pentru rezidență</h3>
+            <p>Ghidare și redactare pentru obținerea rezidenței.</p>
+        </div>
+        <h2>Contact</h2>
+        <p>Pentru mai multe informații, contactați-ne la:</p>
+        <p>Email: contact@ajutordocumente.nl</p>
+        <p>Telefon: +31 123 456 789</p>
+    </div>
+    <footer class="contact">
+        <p>&copy; 2025 Ajutor Documente - Toate drepturile rezervate</p>
+    </footer>
+</body>
+</html>
